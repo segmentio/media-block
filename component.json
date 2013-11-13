@@ -1,0 +1,6 @@
+{
+  "name": "media-block",
+  "version": "0.0.1",
+  "description": "Media-block Layout",
+  "styles": ["index.css"]
+}

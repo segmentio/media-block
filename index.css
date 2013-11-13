@@ -1,0 +1,24 @@
+
+/**
+ * Creates a new block-formatting context to
+ * easily create layouts that have a thumbnail
+ * on the left or right and text next to it. The
+ * text will never wrap below the figure.
+ *
+ * .media-block
+ *  .media-content
+ *  .media-figure(.alt)
+ */
+
+.media .media-content {
+  overflow: hidden;
+  display: block;
+}
+
+.media .media-figure {
+  float: left;
+}
+
+.media .media-figure-alt {
+  float: right;
+}
