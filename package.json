@@ -1,6 +1,6 @@
 {
   "name": "@segment/media-block",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Creates a new block-formatting context to easily create layouts that have a thumbnail on the left or right and text next to it. The text will never wrap below the figure.",
   "main": "index.css",
   "scripts": {
