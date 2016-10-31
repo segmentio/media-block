@@ -1,0 +1,13 @@
+{
+  "name": "@segment/media-block",
+  "version": "0.0.0",
+  "description": "Creates a new block-formatting context to easily create layouts that have a thumbnail on the left or right and text next to it. The text will never wrap below the figure.",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/segmentio/media-block.git"
+  }
+}
